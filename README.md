@@ -4,6 +4,4 @@ To-Do List is a Flutter-based mobile application designed for task management, u
   ScreeenShots
   
 
-![Image](https://github.com/user-attachments/assets/edf7efdf-2108-4a84-b616-176b90f76dec) ![Image](https://github.com/user-attachments/assets/a6e226a3-187d-4acf-a073-f0544d0ac7c9) 
-
-![Image](https://github.com/user-attachments/assets/567c597d-30bb-4d91-99be-bbdf3051665c) ![Image](https://github.com/user-attachments/assets/19ef8b77-d939-4b40-a61b-270aa216832c)
+<img width="309" height="674" alt="Image" src="https://github.com/user-attachments/assets/da7fa7f0-252c-42a3-9d24-781dec53c063" /><img width="316" height="641" alt="Image" src="https://github.com/user-attachments/assets/73bd1901-d6de-4336-816d-26489b668847" /><img width="313" height="660" alt="Image" src="https://github.com/user-attachments/assets/ccfbc42a-8da3-467b-ab02-34be952998bc" /><img width="313" height="652" alt="Image" src="https://github.com/user-attachments/assets/cb7a960a-0400-42ba-b18b-1aaff025fd0e" /><img width="313" height="667" alt="Image" src="https://github.com/user-attachments/assets/c507b8b7-cd46-48f2-acfa-3620f9144694" /><img width="310" height="664" alt="Image" src="https://github.com/user-attachments/assets/856c9190-baaa-4962-a850-23c8b2c565d1" /><img width="318" height="659" alt="Image" src="https://github.com/user-attachments/assets/375653f7-f0cc-4d66-a20d-0e04d84c8e9b" />
