@@ -19,7 +19,6 @@ A simple and lightweight To-Do List application built with **Flutter** and **Hiv
 🛠️ Technologies Used
 
 - Flutter
-- Dart
 - Hive (for local storage)
 
 ---
